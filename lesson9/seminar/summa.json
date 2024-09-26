@@ -1,0 +1,76 @@
+[
+  {
+    "args": [
+      2,
+      3
+    ],
+    "kwargs": {},
+    "result": 5
+  },
+  {
+    "args": [
+      5
+    ],
+    "kwargs": {},
+    "result": 7
+  },
+  {
+    "args": [
+      10
+    ],
+    "kwargs": {
+      "b": 4
+    },
+    "result": 14
+  }
+][
+  {
+    "args": [
+      2,
+      3
+    ],
+    "kwargs": {},
+    "result": 5
+  }
+][
+  {
+    "args": [
+      2,
+      3
+    ],
+    "kwargs": {},
+    "result": 5
+  },
+  {
+    "args": [
+      5
+    ],
+    "kwargs": {},
+    "result": 7
+  }
+][
+  {
+    "args": [
+      2,
+      3
+    ],
+    "kwargs": {},
+    "result": 5
+  },
+  {
+    "args": [
+      5
+    ],
+    "kwargs": {},
+    "result": 7
+  },
+  {
+    "args": [
+      10
+    ],
+    "kwargs": {
+      "b": 4
+    },
+    "result": 14
+  }
+]

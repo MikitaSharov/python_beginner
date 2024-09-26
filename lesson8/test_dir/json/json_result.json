@@ -1,0 +1,57 @@
+[
+  {
+    "Path": "./test_dir/root_file.txt",
+    "Type": "File",
+    "Size": 55
+  },
+  {
+    "Path": "./test_dir/csv/csv_result.csv",
+    "Type": "File",
+    "Size": 405
+  },
+  {
+    "Path": "./test_dir/json/example.json",
+    "Type": "File",
+    "Size": 6
+  },
+  {
+    "Path": "./test_dir/json/example_1.json",
+    "Type": "File",
+    "Size": 52
+  },
+  {
+    "Path": "./test_dir/json/json_result.json",
+    "Type": "File",
+    "Size": 0
+  },
+  {
+    "Path": "./test_dir/json/test_json_dir/test.txt",
+    "Type": "File",
+    "Size": 13
+  },
+  {
+    "Path": "./test_dir/pickle/pickle_result.pickle",
+    "Type": "File",
+    "Size": 531
+  },
+  {
+    "Path": "./test_dir/csv",
+    "Type": "Directory",
+    "Size": 405
+  },
+  {
+    "Path": "./test_dir/json",
+    "Type": "Directory",
+    "Size": 71
+  },
+  {
+    "Path": "./test_dir/pickle",
+    "Type": "Directory",
+    "Size": 531
+  },
+  {
+    "Path": "./test_dir/json/test_json_dir",
+    "Type": "Directory",
+    "Size": 13
+  }
+]

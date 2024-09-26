@@ -1,0 +1,11 @@
+Path,Type,Size
+./test_dir/root_file.txt,File,55
+./test_dir/csv/csv_result.csv,File,403
+./test_dir/json/example.json,File,6
+./test_dir/json/example_1.json,File,52
+./test_dir/json/json_result.json,File,831
+./test_dir/json/test_json_dir/test.txt,File,13
+./test_dir/csv,Directory,403
+./test_dir/json,Directory,902
+./test_dir/pickle,Directory,0
+./test_dir/json/test_json_dir,Directory,13
